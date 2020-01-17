@@ -1,0 +1,1 @@
+const BUCKET_NAME = 'pot-of-gold-at-the-end-of-the-rainbow'
